@@ -76,11 +76,11 @@ Run the simulation
 
 ## Screenshots
 
-![Result](resultimg.png)
+![Result](assets/resultimg.png)
 
 ## Design
 
-![Design](design.png)
+![Design](assets/design.png)
 
 ## Authors
 
